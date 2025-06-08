@@ -1,7 +1,6 @@
 <h1 align="center">Olá! 👋, Eu sou Lucas</h1>
 <h3 align="center">Um junior na área de desenvolvimento Front-End</h3>
 
-- 🌱Atualmente estou aprendendo **Docker, Bootstrap, FireBase**
 
 - 📫 E-mail **lucassouza6932@gmail.com**
 
