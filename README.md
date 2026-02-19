@@ -1,15 +1,12 @@
-<h1 align="center">Olá! 👋, Eu sou Lucas</h1>
+<h1 align="center">Olá! Eu sou Lucas</h1>
 <h3 align="center">Um junior na área de desenvolvimento Front-End</h3>
 
-- 📫 E-mail **lucassouza6932@gmail.com**
+-  E-mail **lucassouza6932@gmail.com**
 
 <h3 align="left">Entre em contato comigo!</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-s-66743713b/" target="blank">
+  <a href="https://www.linkedin.com/in/lucassouza-js/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-s-66743713b/" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/lucassouza.__" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucassouza.__" height="30" width="40" />
   </a>
 </p>
 
