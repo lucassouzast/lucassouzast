@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou Lucas</h1>
 
-<h3 align="center">Desenvolvedor Front-End Júnior</h3>
+<h3 align="center">Desenvolvedor Full-Stack/h3>
 
 <p align="center">
   <a href="mailto:lucassouza6932@gmail.com">
