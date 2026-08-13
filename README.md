@@ -1,31 +1,49 @@
-<h1 align="center">Olá! Eu sou Lucas</h1>
+# Lucas Pereira de Souza
 
-<h3 align="center">Desenvolvedor Full-Stack </h3>
+### Desenvolvedor Full Stack | React • TypeScript • Node.js
 
-<p align="center">
-  <a href="mailto:lucassouza6932@gmail.com">
-    lucassouza6932@gmail.com
-  </a>
-</p>
+Desenvolvedor Full Stack com experiência no desenvolvimento e manutenção de aplicações web comerciais em produção.
 
-<h3 align="center">Entre em contato comigo</h3>
+Atualmente desenvolvo uma plataforma para restaurantes utilizada diariamente por 3 estabelecimentos e responsável pelo processamento de aproximadamente 100 a 300 pedidos por dia.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucassouza-js/" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="LinkedIn" 
-      height="30" 
-      width="40" 
-    />
-  </a>
-</p>
+Atuo de ponta a ponta, desde levantamento de requisitos e decisões técnicas até desenvolvimento, testes, deploy e manutenção em produção.
 
-<h3 align="center">Linguagens e Ferramentas</h3>
+## Stack principal
 
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,git,postman,linux" 
-    alt="HTML, CSS, JavaScript, TypeScript, React, Redux, TailwindCSS, Git, Postman e Linux" 
-  />
-</p>
+### Front-end
+React • TypeScript • JavaScript • Next.js • Material UI • Tailwind CSS
+
+### Back-end
+Node.js • Express • REST APIs • MongoDB • Mongoose
+
+### Testes e infraestrutura
+Jest • Linux • Nginx • Git • GitHub
+
+### Experiência com
+SSE • JWT • Web Push • Mercado Pago • Integrações com APIs externas
+
+## Projetos em destaque
+
+### Plataforma para Restaurantes
+Aplicação comercial Full Stack utilizada em produção por restaurantes.
+
+- 3 estabelecimentos em produção
+- 100–300 pedidos processados diariamente
+- Pedidos em tempo real com SSE
+- Impressão térmica automática
+- Pagamentos online
+- Autenticação e permissões
+- Integrações externas
+- Deploy e manutenção em produção
+
+Exemplos:
+- https://primeburguerst.com
+- https://gregoburgue.com.br
+
+### Poupa+
+Aplicação Full Stack para gerenciamento financeiro pessoal, com autenticação, transações, categorias, filtros e dashboard.
+
+## Contato
+
+LinkedIn: https://www.linkedin.com/in/lucassouza-js/
+Portfólio: https://lucassouzast.onrender.com/
